@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "user": "MIguel",
+            "name": 3,
+            "pwd": 754,
+            "age": 0
+        },
+        {
+            "user": "MIguel",
+            "name": 3,
+            "pwd": 754,
+            "age": 0
+        },
+        {
+            "user": "pepito",
+            "name": "Pikachu",
+            "pwd": "H467",
+            "age": 60
+        },
+        {
+            "user": "marcos",
+            "name": "Miguel",
+            "pwd": 123,
+            "age": 23
+        }
+    ],
+    "df": []
+}
