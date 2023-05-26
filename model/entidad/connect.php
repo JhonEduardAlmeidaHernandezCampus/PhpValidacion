@@ -14,6 +14,7 @@
             $f = fopen($this->path, "w+");
             fwrite($f, json_encode($this->getData(),JSON_PRETTY_PRINT));
             fclose($f);
+            return ["succes"=> "Ok", "data"=> func_get_arg(1)];
         }
     }
 ?>
